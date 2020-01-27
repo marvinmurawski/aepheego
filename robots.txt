@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aataxuesi.lukaszkomar.pl/sitemap.xml
